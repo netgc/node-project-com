@@ -1,250 +1,250 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sysin</title><icon>https://sysin.cn/img/favicon.png</icon><subtitle>软件技术 | SYStem INside</subtitle>
-  <link href="https://sysin.cn/atom.xml" rel="self"/>
-  <link href="https://sysin.cn/"/>
+  <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
+  <link href="https://sysin.org/atom.xml" rel="self"/>
+  <link href="https://sysin.org/"/>
   <updated>2026-10-30T01:28:38.000Z</updated>
-  <id>https://sysin.cn/</id>
+  <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
     <title>Xcode 27.2 (27B52) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
-    <link href="https://sysin.cn/blog/apple-xcode-27/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/apple-xcode-27/</id>
+    <link href="https://sysin.org/blog/apple-xcode-27/?utm_source=atom"/>
+    <id>https://sysin.org/blog/apple-xcode-27/</id>
     <published>2026-10-30T01:28:38.000Z</published>
     <updated>2026-10-30T01:28:38.000Z</updated>
     <summary type="html">​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</summary>
   </entry>
   <entry>
     <title>Capture One 16.9 (macOS, Windows) - 高级照片编辑软件</title>
-    <link href="https://sysin.cn/blog/capture-one/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/capture-one/</id>
+    <link href="https://sysin.org/blog/capture-one/?utm_source=atom"/>
+    <id>https://sysin.org/blog/capture-one/</id>
     <published>2026-10-30T01:20:56.000Z</published>
     <updated>2026-10-30T01:20:56.000Z</updated>
     <summary type="html">Capture One 是专业 RAW 照片编辑软件，支持 RAW 图像处理、色彩调整、图层编辑、联机拍摄、批量处理和照片管理，适用于专业摄影和影像后期工作流。</summary>
   </entry>
   <entry>
     <title>Arista EOS 4.37.0F 发布 - 适用于下一代数据中心和云网络的可扩展操作系统</title>
-    <link href="https://sysin.cn/blog/arista-eos/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/arista-eos/</id>
+    <link href="https://sysin.org/blog/arista-eos/?utm_source=atom"/>
+    <id>https://sysin.org/blog/arista-eos/</id>
     <published>2026-10-30T01:00:01.000Z</published>
     <updated>2026-10-30T01:00:01.000Z</updated>
     <summary type="html">Arista EOS 是一个完全可编程且高度模块化的基于 Linux 的网络操作系统，使用熟悉的行业标准 CLI，并在 Arista 交换系列中运行单个二进制软件映像。</summary>
   </entry>
   <entry>
     <title>HPE OneView 11.5 - HPE 服务器、存储和网络集中管理软件</title>
-    <link href="https://sysin.cn/blog/hpe-oneview/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/hpe-oneview/</id>
+    <link href="https://sysin.org/blog/hpe-oneview/?utm_source=atom"/>
+    <id>https://sysin.org/blog/hpe-oneview/</id>
     <published>2026-10-29T01:18:36.000Z</published>
     <updated>2026-10-29T01:18:36.000Z</updated>
     <summary type="html">HPE OneView 是一款集成式 IT 基础设施管理软件，可实现 IT 运维自动化，简化了涵盖计算、存储和网络的基础设施生命周期管理。</summary>
   </entry>
   <entry>
     <title>Kali Linux 2026.3 发布 - 领先的渗透测试发行版</title>
-    <link href="https://sysin.cn/blog/kali-linux/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/kali-linux/</id>
+    <link href="https://sysin.org/blog/kali-linux/?utm_source=atom"/>
+    <id>https://sysin.org/blog/kali-linux/</id>
     <published>2026-10-28T01:18:00.000Z</published>
     <updated>2026-10-28T01:18:00.000Z</updated>
     <summary type="html">Kali Linux 2026 是基于 Debian 的 Linux 发行版，旨在进行高级渗透测试和安全审核。</summary>
   </entry>
   <entry>
     <title>IDA Pro 9.5.261026 (macOS, Linux, Windows) - 强大的反汇编程序、反编译器和多功能调试器</title>
-    <link href="https://sysin.cn/blog/ida-pro/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/ida-pro/</id>
+    <link href="https://sysin.org/blog/ida-pro/?utm_source=atom"/>
+    <id>https://sysin.org/blog/ida-pro/</id>
     <published>2026-10-28T01:09:19.000Z</published>
     <updated>2026-10-28T01:09:19.000Z</updated>
     <summary type="html">IDA Pro 是一个强大的反汇编程序、反编译器和多功能调试器。集成在一个工具中。跨平台支持 macOS、Linux 和 Windows，全平台同时支持 x64 和 arm64 架构。</summary>
   </entry>
   <entry>
     <title>macOS Golden Gate 27.2 (26B123) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-golden-gate-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
     <published>2026-10-27T01:08:36.000Z</published>
     <updated>2026-10-27T01:08:36.000Z</updated>
     <summary type="html">最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Golden Gate 27.2 (26B123) 正式版 DMG、ISO、IPSW 下载</title>
-    <link href="https://sysin.cn/blog/macos-golden-gate/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-golden-gate/</id>
+    <link href="https://sysin.org/blog/macos-golden-gate/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-golden-gate/</id>
     <published>2026-10-27T01:08:26.000Z</published>
     <updated>2026-10-27T01:08:26.000Z</updated>
     <summary type="html">macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.7.2 (25G332) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-tahoe-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-tahoe-boot-iso/</id>
     <published>2026-10-27T01:06:36.000Z</published>
     <updated>2026-10-27T01:06:36.000Z</updated>
     <summary type="html">最新版 macOS Tahoe 26 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.7.2 (25G332) 正式版 DMG、ISO、IPSW 下载</title>
-    <link href="https://sysin.cn/blog/macos-tahoe/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-tahoe/</id>
+    <link href="https://sysin.org/blog/macos-tahoe/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-tahoe/</id>
     <published>2026-10-27T01:06:26.000Z</published>
     <updated>2026-10-27T01:06:26.000Z</updated>
     <summary type="html">macOS Tahoe 采用全新 Liquid Glass 设计，电话 app 和实时活动带来新连续互通体验，聚焦搜索迎来迄今最大更新，让 Mac 更强大、更高效、更智能。</summary>
   </entry>
   <entry>
     <title>macOS Sequoia 15.8.2 (24H232) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-sequoia-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-sequoia-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-sequoia-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-sequoia-boot-iso/</id>
     <published>2026-10-27T01:05:20.000Z</published>
     <updated>2026-10-27T01:05:20.000Z</updated>
     <summary type="html">最新版 macOS Sequoia 15 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Sequoia 15.8.2 (24H232) 正式版 DMG、ISO、IPSW 下载</title>
-    <link href="https://sysin.cn/blog/macos-sequoia/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-sequoia/</id>
+    <link href="https://sysin.org/blog/macos-sequoia/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-sequoia/</id>
     <published>2026-10-27T01:05:10.000Z</published>
     <updated>2026-10-27T01:05:10.000Z</updated>
     <summary type="html">macOS Sequoia 带来最新连续互通功能 iPhone 镜像，Safari 浏览器重大更新，Apple Intelligence 掀开 AI 新篇章，排布窗口的新方式、全新密码 app 等众多全新功能令 Mac 使用体验再升级。</summary>
   </entry>
   <entry>
     <title>Apple Safari 27.2 - macOS 专属浏览器</title>
-    <link href="https://sysin.cn/blog/apple-safari-27/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/apple-safari-27/</id>
+    <link href="https://sysin.org/blog/apple-safari-27/?utm_source=atom"/>
+    <id>https://sysin.org/blog/apple-safari-27/</id>
     <published>2026-10-27T01:01:27.000Z</published>
     <updated>2026-10-27T01:01:27.000Z</updated>
     <summary type="html">无论在哪种 Apple 设备上，用 Safari 27 浏览器上网都再好不过。它带来健全的自定选项、强大的隐私保护功能，以及傲人的电池续航，让你随时都能自如地浏览网络。至于速度，这款飞快的浏览器更再次超越自我。</summary>
   </entry>
   <entry>
     <title>Windows Server 2025 OVF (2026 年 10 月更新) - VMware 虚拟机模板</title>
-    <link href="https://sysin.cn/blog/windows-server-2025-ovf/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-server-2025-ovf/</id>
+    <link href="https://sysin.org/blog/windows-server-2025-ovf/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-server-2025-ovf/</id>
     <published>2026-10-25T01:15:25.000Z</published>
     <updated>2026-10-25T01:15:25.000Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/windows-server-2025-ovf/?utm_source=atom" title="Windows Server 2025 OVF (2026 年 10 月更新) - VMware 虚拟机模板">Windows Server 2025 OVF (2026 年 10 月更新) - VMware 虚拟机模板</a> 查看最新版。]]></summary>
   </entry>
   <entry>
     <title>Windows Server 2025 中文版、英文版下载 (2026 年 10 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-server-2025/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-server-2025/</id>
+    <link href="https://sysin.org/blog/windows-server-2025/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-server-2025/</id>
     <published>2026-10-25T01:15:05.000Z</published>
     <updated>2026-10-25T01:15:05.000Z</updated>
     <summary type="html">Windows Server 2025 让你为将来做好准备，同时提供目前所需的安全性、性能和灵活性。通过更轻松的网络连接、更快的存储和满足你需求的混合云功能提高工作效率。凭借前瞻性的安全性和 AI 就绪型计算，领先于未来的发展。</summary>
   </entry>
   <entry>
     <title>Windows Server 2022 OVF (2026 年 10 月更新) - VMware 虚拟机模板</title>
-    <link href="https://sysin.cn/blog/windows-server-2022-ovf/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-server-2022-ovf/</id>
+    <link href="https://sysin.org/blog/windows-server-2022-ovf/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-server-2022-ovf/</id>
     <published>2026-10-25T01:12:32.000Z</published>
     <updated>2026-10-25T01:12:32.000Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/windows-server-2022-ovf/?utm_source=atom" title="Windows Server 2022 OVF (2026 年 10 月更新) - VMware 虚拟机模板">Windows Server 2022 OVF (2026 年 10 月更新) - VMware 虚拟机模板</a> 查看最新版。]]></summary>
   </entry>
   <entry>
     <title>Windows Server 2022 中文版、英文版下载 (2026 年 10 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-server-2022/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-server-2022/</id>
+    <link href="https://sysin.org/blog/windows-server-2022/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-server-2022/</id>
     <published>2026-10-25T01:12:22.000Z</published>
     <updated>2026-10-25T01:12:22.000Z</updated>
     <summary type="html">Windows Server 2022 在三个关键主题上带来了许多创新，采用先进的多层安全机制、Azure 混合功能以及灵活的应用程序平台。</summary>
   </entry>
   <entry>
     <title>Windows 11 26H2 | 26H1 | 25H2 | 24H2 中文版、英文版 (2026 年 10 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-11/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-11/</id>
+    <link href="https://sysin.org/blog/windows-11/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-11/</id>
     <published>2026-10-25T01:11:00.000Z</published>
     <updated>2026-10-25T01:11:00.000Z</updated>
     <summary type="html">Windows 11 提供一个让人平静而富有创意的空间，全新体验引导您全力追逐热爱。从焕然一新的开始菜单，到与您关心的人、关注的消息、游戏和内容建立连接的新方式，Windows 11 提供了一个场所，让您得以自由地思索、表达和创造。</summary>
   </entry>
   <entry>
     <title>Windows Server 2019 OVF (2026 年 10 月更新) - VMware 虚拟机模板</title>
-    <link href="https://sysin.cn/blog/windows-server-2019-ovf/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-server-2019-ovf/</id>
+    <link href="https://sysin.org/blog/windows-server-2019-ovf/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-server-2019-ovf/</id>
     <published>2026-10-25T01:09:18.000Z</published>
     <updated>2026-10-25T01:09:18.000Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/windows-server-2019-ovf/?utm_source=atom" title="Windows Server 2019 OVF (2026 年 10 月更新) - VMware 虚拟机模板">Windows Server 2019 OVF (2026 年 10 月更新) - VMware 虚拟机模板</a> 查看最新版。]]></summary>
   </entry>
   <entry>
     <title>Windows Server 2019 中文版、英文版下载 (2026 年 10 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-server-2019/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-server-2019/</id>
+    <link href="https://sysin.org/blog/windows-server-2019/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-server-2019/</id>
     <published>2026-10-25T01:08:19.000Z</published>
     <updated>2026-10-25T01:08:19.000Z</updated>
     <summary type="html">Windows Server 2019 新增 Windows Admin Center、Storage Migration Service、System Insights、ReFS 重复数据删除、Storage Replica 测试故障转移、WSL 及容器等功能。</summary>
   </entry>
   <entry>
     <title>Windows Server 2016 OVF (2026 年 10 月更新) - VMware 虚拟机模板</title>
-    <link href="https://sysin.cn/blog/windows-server-2016-ovf/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-server-2016-ovf/</id>
+    <link href="https://sysin.org/blog/windows-server-2016-ovf/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-server-2016-ovf/</id>
     <published>2026-10-25T01:08:18.000Z</published>
     <updated>2026-10-25T01:08:18.000Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/windows-server-2016-ovf/?utm_source=atom" title="Windows Server 2016 OVF (2026 年 10 月更新) - VMware 虚拟机模板">Windows Server 2016 OVF (2026 年 10 月更新) - VMware 虚拟机模板</a> 查看最新版。]]></summary>
   </entry>
   <entry>
     <title>Windows Server 2016 中文版、英文版下载 (2026 年 10 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-server-2016/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-server-2016/</id>
+    <link href="https://sysin.org/blog/windows-server-2016/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-server-2016/</id>
     <published>2026-10-25T01:08:16.000Z</published>
     <updated>2026-10-25T01:08:16.000Z</updated>
     <summary type="html">Windows Server 2016 引入 Nano Server、Windows Server 容器与 Hyper-V 容器、受防护虚拟机（Shielded VMs）、嵌套虚拟化、生产检查点及软件定义网络（SDN）等新功能，并增强 Hyper-V 虚拟化、安全防护、存储与计算弹性。</summary>
   </entry>
   <entry>
     <title>Tenable Nessus 10.12.6 (macOS, Linux, Windows) - 漏洞评估解决方案</title>
-    <link href="https://sysin.cn/blog/nessus-10/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nessus-10/</id>
+    <link href="https://sysin.org/blog/nessus-10/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-10/</id>
     <published>2026-10-23T01:21:00.000Z</published>
     <updated>2026-10-23T01:21:00.000Z</updated>
     <summary type="html">Tenable Nessus 是领先的漏洞扫描与安全评估平台，提供全面的漏洞检测、配置审计和风险分析能力，帮助企业及时发现并修复安全风险。</summary>
   </entry>
   <entry>
     <title>OpenBSD 8.0 正式版发布 - 免费多平台类 UNIX 操作系统</title>
-    <link href="https://sysin.cn/blog/openbsd/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/openbsd/</id>
+    <link href="https://sysin.org/blog/openbsd/?utm_source=atom"/>
+    <id>https://sysin.org/blog/openbsd/</id>
     <published>2026-10-21T01:10:12.000Z</published>
     <updated>2026-10-21T01:10:12.000Z</updated>
     <summary type="html">OpenBSD 是一款开源、免费的类 Unix 操作系统，以高度可移植性、稳定性和安全性著称，支持多种硬件架构，广泛用于服务器、嵌入式设备及跨平台开发等场景。</summary>
   </entry>
   <entry>
     <title>IDA Pro 9.5 正式版发布</title>
-    <link href="https://sysin.cn/blog/ida-pro-9/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/ida-pro-9/</id>
+    <link href="https://sysin.org/blog/ida-pro-9/?utm_source=atom"/>
+    <id>https://sysin.org/blog/ida-pro-9/</id>
     <published>2026-10-20T01:09:05.000Z</published>
     <updated>2026-10-20T01:09:05.000Z</updated>
     <summary type="html">IDA 9.5 发布，核心升级聚焦 AI Agent：官方 IDA MCP、Assist AI、多二进制分析，同时新增 Android DEX/ODEX、TriCore、Hexagon 等反编译支持。</summary>
   </entry>
   <entry>
     <title>IDA Pro 9.5 正式版发布 - 支持更多平台，具备更强大的智能体能力</title>
-    <link href="https://sysin.cn/blog/ida-pro-release/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/ida-pro-release/</id>
+    <link href="https://sysin.org/blog/ida-pro-release/?utm_source=atom"/>
+    <id>https://sysin.org/blog/ida-pro-release/</id>
     <published>2026-10-20T01:09:05.000Z</published>
     <updated>2026-10-20T01:09:05.000Z</updated>
     <summary type="html">IDA 9.5 发布，核心升级聚焦 AI Agent：官方 IDA MCP、Assist AI、多二进制分析，同时新增 Android DEX/ODEX、TriCore、Hexagon 等反编译支持。</summary>
   </entry>
   <entry>
     <title>HPE SPP 2026.09.00.00 - HPE 服务器固件、驱动程序和系统软件包</title>
-    <link href="https://sysin.cn/blog/hpe-spp/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/hpe-spp/</id>
+    <link href="https://sysin.org/blog/hpe-spp/?utm_source=atom"/>
+    <id>https://sysin.org/blog/hpe-spp/</id>
     <published>2026-10-20T01:07:06.000Z</published>
     <updated>2026-10-20T01:07:06.000Z</updated>
     <summary type="html">HPE SPP 是慧与公司专为其 ProLiant 服务器系列提供的一个集成软件包。它包含了固件、驱动程序以及系统软件的集合，旨在帮助用户统一地更新和维护服务器环境。</summary>
   </entry>
   <entry>
     <title>Gitea 28.2.0 (Linux, FreeBSD, macOS, Windows) - 开源自托管 Git 服务</title>
-    <link href="https://sysin.cn/blog/gitea/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/gitea/</id>
+    <link href="https://sysin.org/blog/gitea/?utm_source=atom"/>
+    <id>https://sysin.org/blog/gitea/</id>
     <published>2026-10-19T01:25:55.000Z</published>
     <updated>2026-10-19T01:25:55.000Z</updated>
     <summary type="html">Gitea 是一款轻松易用的一体化自托管软件开发服务，集 Git 托管、代码审查、团队协作、软件包注册表以及 CI/CD 于一身。它基于 MIT 许可证开源，设计轻量、易于使用，并具有高度可定制性，是小型团队和大型组织的理想选择。</summary>
   </entry>
   <entry>
     <title>Splunk Enterprise 10.6.1.1 (macOS, Linux, Windows) - 搜索、分析和可视化，数据全面洞察平台</title>
-    <link href="https://sysin.cn/blog/splunk-10/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/splunk-10/</id>
+    <link href="https://sysin.org/blog/splunk-10/?utm_source=atom"/>
+    <id>https://sysin.org/blog/splunk-10/</id>
     <published>2026-10-19T01:15:10.000Z</published>
     <updated>2026-10-19T01:15:10.000Z</updated>
     <summary type="html">Splunk Enterprise 对所有数据进行搜索、分析和可视化，获得可执行的洞察。Splunk AI 功能解锁更深入的洞察，加速人类决策与威胁响应。</summary>
   </entry>
   <entry>
     <title>UTM 5.0.8 - 基于 QEMU 的 macOS 虚拟机与模拟器应用</title>
-    <link href="https://sysin.cn/blog/utm-5/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/utm-5/</id>
+    <link href="https://sysin.org/blog/utm-5/?utm_source=atom"/>
+    <id>https://sysin.org/blog/utm-5/</id>
     <published>2026-10-17T02:20:05.000Z</published>
     <updated>2026-10-17T02:20:05.000Z</updated>
     <summary type="html">UTM 5 发布，新增 Windows 11 DirectX 11 图形支持、Linux Vulkan 1.3 支持，并改进 OpenGL 图形后端与虚拟机图形性能。</summary>

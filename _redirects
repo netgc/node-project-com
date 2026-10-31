@@ -1,2 +1,0 @@
-# _redirects for netlify.com
-/article/*  /blog/:splat  301
